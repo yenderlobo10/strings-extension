@@ -9,3 +9,6 @@ build/
 doc/api/
 .failed_tracker
 .history
+
+# Android Studio
+/.idea

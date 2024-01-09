@@ -1,4 +1,4 @@
-import 'package:strings/strings.dart';
+import 'package:strings_extension/strings.dart';
 import 'package:test/test.dart';
 
 void main() {
